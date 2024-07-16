@@ -2,9 +2,9 @@
 
 ## About Me
 - 💼 Software Engineer at [Company](https://company.com)
-- 🔭 Working on [Project](https://github.com/johndoe/project)
+- 🔭 Working on [Project](https://github.com/LORDLONELYDEIL/project)
 - 🌱 Learning about Machine Learning and AI
-- 📫 How to reach me: [Email](mailto:johndoe@example.com)
+- 📫 How to reach me: [Email](mailto:lordlonelydevil001@gmail.com)
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -19,5 +19,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LORDLONELYDEVIL&layout=compact&theme=radical)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/johndoe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vignesh-s001)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
