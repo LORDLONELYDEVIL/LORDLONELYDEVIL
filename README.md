@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm LORDLONELYDEVIL 👋
 
 ## About Me
 - 💼 Software Engineer at [Company](https://company.com)
@@ -13,10 +13,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![LORDLONELYDEVIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=LORDLONELYDEVIL&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LORDLONELYDEVIL&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/johndoe)
