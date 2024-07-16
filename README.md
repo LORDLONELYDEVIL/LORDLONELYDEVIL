@@ -3,7 +3,7 @@
 ## About Me
 - 💼 Software Engineer at [Company](https://company.com)
 - 🔭 Working on [Project](https://github.com/LORDLONELYDEIL/project)
-- 🌱 Learning about Machine Learning and AI
+- 🌱 Learning about Full Stack Development & DSA
 - 📫 How to reach me: [Email](mailto:lordlonelydevil001@gmail.com)
 
 ## Skills
